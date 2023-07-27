@@ -2,9 +2,7 @@
 title: "Exploring the Solar Poles: The Last Great Frontier of the Sun"
 collection: publications
 permalink: /publication/paper2
-excerpt: 'Authors: Saha, C., Chandra, S., Nandy, D.'
-date: December 2022
-venue: 'the United States National Academies Solar and Space Physics (Heliophysics) Decadal Survey'
+excerpt: 'Submitted to the United States National Academies Solar and Space Physics (Heliophysics) Decadal Survey 2022'
 ---
 Authors: Nandy, D., Banerjee, D., Bhowmik, P., Sacha Brun, A., Cameron, R.H., Gibson, S.E., Hanasoge. S., Harra, L., Hassler, D.M., Jain, R., Jiang, J., Jouve, L., Mahajan, S.S., Mandrini, C.M., Owens, M., Pal, S., Pinto, R.F., <b>Saha, C.</b>, Sun, X., Tripathi, D., Usoskin, I.G. 
 

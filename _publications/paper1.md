@@ -3,10 +3,8 @@ title: "Evidence of persistence of weak magnetic cycles driven by meridional pla
 collection: publications
 permalink: /publication/paper1
 excerpt: 'Authors: Saha, C., Chandra, S., Nandy, D.'
-date: September 2017
+date: September 2022
 venue: 'Monthly Notices of the Royal Astronomical Society: Letters'
-paperurl: 'https://doi.org/10.1093/mnrasl/slac104'
-citation: 'Saha, C., Chandra, S. and Nandy, D., 2022. Evidence of persistence of weak magnetic cycles driven by meridional plasma flows during solar grand minima phases. <i>Monthly Notices of the Royal Astronomical Society: Letters</i>, 517(1), pp.L36-L40.'
 ---
 Authors: Saha, C., Chandra, S., Nandy, D.
 
@@ -14,4 +12,4 @@ Long-term sunspot observations and solar activity reconstructions reveal that th
 
 [Download paper here](https://doi.org/10.1093/mnrasl/slac104)
 
-Recommended citation: Saha, C., Chandra, S. and Nandy, D., 2022. Evidence of persistence of weak magnetic cycles driven by meridional plasma flows during solar grand minima phases. <i>Monthly Notices of the Royal Astronomical Society: Letters</i>, 517(1), pp.L36-L40.
+Recommended citation: Saha, C., Chandra, S. and Nandy, D., 2022. Evidence of persistence of weak magnetic cycles driven by meridional plasma flows during solar grand minima phases. <i>Monthly Notices of the Royal Astronomical Society: Letters</i>, 517(1), pp.L36-L40, [DOI](https://doi.org/10.1093/mnrasl/slac104)

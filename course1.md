@@ -8,4 +8,4 @@ date: 2014-01-01
 location: "India"
 ---
 
-Course Instructor: Dr. Bhimalingam Chittari, DPS, IISER Kolkata
+Course Instructor: Dr. Bheemalingam Chittari, DPS, IISER Kolkata

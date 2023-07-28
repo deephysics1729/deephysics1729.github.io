@@ -12,7 +12,7 @@ Sunspots have been observed for over four centuries and the magnetic nature of s
 
 [Download paper here](https://doi.org/10.48550/arXiv.2307.00520)
 
-Recommended citation: Jaswal, P., Saha, C. and Nandy, D., 2023. Discovery of a relation between the decay rate of the Sun's magnetic dipole and the growth rate of the following sunspot cycle: a new precursor for solar cycle prediction. <i>arXiv preprint arXiv:2307.00520</i>. [DOI](https://doi.org/10.48550/arXiv.2307.00520)
+Recommended citation: Jaswal, P., Saha, C. and Nandy, D., 2023, Discovery of a relation between the decay rate of the Sun's magnetic dipole and the growth rate of the following sunspot cycle: a new precursor for solar cycle prediction, <i>arXiv preprint arXiv:2307.00520</i>, [DOI](https://doi.org/10.48550/arXiv.2307.00520)
 
 
 

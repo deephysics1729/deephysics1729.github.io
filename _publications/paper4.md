@@ -3,7 +3,7 @@ title: "Discovery of a relation between the decay rate of the Sun's magnetic dip
 collection: publications
 permalink: /publication/paper4
 excerpt: 'Authors: Jaswal, P., <b>Saha, C.</b> and Nandy, D.'
-date: 2023
+date: July 2023
 venue: 'arXiv preprint arXiv:2307.00520'
 ---
 Authors: Jaswal, P., <b>Saha, C.</b> and Nandy, D.

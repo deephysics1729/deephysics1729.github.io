@@ -15,4 +15,4 @@ I obtained a Master of Science degree in Physics in 2020 from the [Department of
 My work and research interests
 ======
 
-Coming soon!
+Will be updated shortly!

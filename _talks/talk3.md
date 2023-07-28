@@ -10,4 +10,4 @@ location: "Indian Institute of Technology Indore, IN"
 
 [More information](https://www.astron-soc.in/asi2023/abstract_details/ASI2023_753)
 
-[Best Poster Certificate from the Journal of Astronomy and Astrophysics for the year 2023](https://www.ias.ac.in/Journals/Journal_of_Astrophysics_and_Astronomy/Winners_-_poster_presentation)
+[Best Poster certificate from the Journal of Astronomy and Astrophysics for the year 2023](https://www.ias.ac.in/Journals/Journal_of_Astrophysics_and_Astronomy/Winners_-_poster_presentation)

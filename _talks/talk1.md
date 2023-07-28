@@ -1,5 +1,5 @@
 ---
-title: " Periodic behavior driven by meridional circulation during solar grand Minima Episodes"
+title: " Periodic behavior driven by meridional circulation during solar grand minima episodes"
 collection: talks
 type: "Talk"
 permalink: /talks/talk1

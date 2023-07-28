@@ -9,3 +9,5 @@ location: "India"
 ---
 
 Autumn Semester 2021 | Course Instructor: Dr. Bheemalingam Chittari, DPS, IISER Kolkata
+
+[Curriculum](https://www.iiserkol.ac.in/teaching-plan/course/2021/Autumn/PH1101/)

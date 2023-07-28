@@ -2,7 +2,7 @@
 title: " Periodic behavior driven by meridional circulation during solar grand Minima Episodes"
 collection: talks
 type: "Talk"
-permalink: /talks/Talk1
+permalink: /talks/talk1
 venue: "40th Annual Meeting of the Astronomical Society of India"
 date: 2022-03-25
 location: "Indian Institute of Technology Roorkee, IN"

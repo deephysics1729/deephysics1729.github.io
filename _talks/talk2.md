@@ -2,7 +2,7 @@
 title: "The Sun’s slumber is not so deep when it goes to sleep"
 collection: talks
 type: "Talk (virtual)"
-permalink: /talks/Talk2
+permalink: /talks/talk2
 venue: " American Geophysical Union Fall meeting"
 date: 2022-12-14
 location: "McCormick Place, Chicago, US"

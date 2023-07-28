@@ -1,7 +1,7 @@
 ---
 title: "On the origin of supermodulation in the Sun’s magnetic activity"
 collection: talks
-type: "Talk"
+type: "Talk (virtual)"
 permalink: /talks/talk5
 venue: "ISSI Team Project 474 Team Meeting 3"
 date: 2023-07-13

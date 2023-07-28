@@ -11,30 +11,29 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Sc. in Physics, Ramakrishna Mission Residential College (Autonomous), Narendrapur, 2018
+* M.Sc. in Physics, Institute of Science, Banaras Hindu University, 2020
+* Ph.D in Space Sciences, Center of Excellence in Space Sciences India (CESSI), IISER Kolkata., 2020 - present
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2018: Summer Research Fellow
+  * DAASE, IIT Indore
+  * Topic: Hydrodynamic simulations using [PLUTO](http://plutocode.ph.unito.it/)
+  * Supervisor: Dr. Bhargav Vaidya
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages
+  * Python, FORTRAN, C, MATLAB, Mathematica
+  * \LaTex, HTML
+* Softwares
+  * PLUTO, ViSit, Paraview, HEAsoft
+  * Microsoft Excel - Word - Office
+* Data handling
+  * SILSO-SIDC database
+  * NASA SDO/HMI, Wilcox Solar Observatory, Royal Greenwich Observatory
+
 
 Publications
 ======
@@ -56,4 +55,8 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Logistics Committee member of [21st National Space Science Symposium](http://www.cessi.in/nsss/index.html)
+* Local Organizing Committee member of [SPARC Workshop: Machine Learning in Solar Physics and Space Weather](http://www.cessi.in/aimlspaceweather/)
+* Instructor and content creator at [Ek Pehal](https://www.iiserkol.ac.in/~outreach/initiatives.html) IISER Kolkata
+* Student member of the Astronomical Society of India
+* Member of INDUS: Indian Network for Dynamical and Unified Solar Physicists

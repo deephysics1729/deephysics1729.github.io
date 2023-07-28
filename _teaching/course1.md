@@ -4,7 +4,7 @@ collection: teaching
 type: "Teaching Assistantship; BS-MS level 1 course"
 permalink: /teaching/course1
 venue: "Department of Physical Sciences, IISER Kolkata"
-date: 2014-01-01
+date: Autumn 2021
 location: "India"
 ---
 

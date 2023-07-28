@@ -26,7 +26,7 @@ Skills
 ======
 * Programming Languages
   * Python, FORTRAN, C, MATLAB, Mathematica
-  * \LaTex, HTML
+  * LaTex, HTML
 * Softwares
   * PLUTO, ViSit, Paraview, HEAsoft
   * Microsoft Excel - Word - Office

@@ -10,3 +10,4 @@ location: "Indian Institute of Science Education and Research Kolkata, IN"
 
 [More information](https://calendar.iiserkol.ac.in/signage/1233731/#/)
 
+PP65: Physics Trends @ IISER Kolkata | IISER Kolkata,IN

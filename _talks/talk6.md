@@ -10,4 +10,4 @@ location: "Madanpur KA High School, Nadia, IN"
 
 [More information](https://youtu.be/7dsn2ifOKtA?t=439)
 
-Akashganga Astronomy Club foundation day | Madanpur KA High School, Nadia, IN
+Akashganga Astronomy Club foundation day celebration at Madanpur KA High School, Nadia, IN

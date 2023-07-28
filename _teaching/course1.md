@@ -8,4 +8,4 @@ date: July 2021
 location: "India"
 ---
 
-Autumn 2021 | Course Instructor: Dr. Bheemalingam Chittari, DPS, IISER Kolkata
+Autumn Semester 2021 | Course Instructor: Dr. Bheemalingam Chittari, DPS, IISER Kolkata

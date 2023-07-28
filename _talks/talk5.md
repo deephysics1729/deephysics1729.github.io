@@ -10,4 +10,5 @@ location: "International Space Science Institute, Bern, Switzerland"
 
 [More information](https://www.issibern.ch/teams/solactregars/main-page/meetings/team-meeting-3/)
 
-ISSI Team Project 474: What Determines The Dynamo Effectivity Of Solar Active Regions? | ISSI Team led by Kristof Petrovay (Hungary)
+ISSI Team Project 474: What Determines The Dynamo Effectivity Of Solar Active Regions?
+ISSI Team led by Kristof Petrovay (Hungary)

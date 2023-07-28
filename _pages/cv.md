@@ -13,7 +13,7 @@ Education
 ======
 * B.Sc. in Physics, Ramakrishna Mission Residential College (Autonomous), Narendrapur, 2018
 * M.Sc. in Physics, Institute of Science, Banaras Hindu University, 2020
-* Ph.D in Space Sciences, Center of Excellence in Space Sciences India (CESSI), IISER Kolkata., 2020 - present
+* Ph.D in Space Sciences, Center of Excellence in Space Sciences India (CESSI), IISER Kolkata, 2020 - present
 
 Work experience
 ======

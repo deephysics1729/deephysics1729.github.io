@@ -1,6 +1,6 @@
 ---
 title: "Travel"
-excerpt: " "Life is short and the world is wide." – Unknown <br/><br/><img src='/images/travel2.jpg' width='500' /> "
+excerpt: " 'Life is short and the world is wide.' – Unknown <br/><img src='/images/travel2.jpg' width='500' /> "
 collection: portfolio
 ---
 

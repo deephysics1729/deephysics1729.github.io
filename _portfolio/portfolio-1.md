@@ -1,7 +1,8 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Data visualization"
+excerpt: "One of my leisure time hobbies is to play with real-world data"
 collection: portfolio
 ---
-
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+ 
+![data_viz1](https://github.com/deephysics1729/deephysics1729.github.io/assets/139892421/b74427a3-fa34-4668-ae69-d12131ccf5fb)
+![data_viz2](https://github.com/deephysics1729/deephysics1729.github.io/assets/139892421/aa68f8d6-5253-4658-8dcb-2c9e43860a12)

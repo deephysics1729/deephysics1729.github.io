@@ -1,6 +1,6 @@
 ---
 title: "Data visualization"
-excerpt: "One of my leisure time hobbies is to play with real-world data<br/><img src="/images/data_viz2.jpg" width="500" height="300"/>"
+excerpt: "One of my leisure time hobbies is to play with real-world data<br/><img src='/images/data_viz2.jpg' width='500' height=300' /> "
 collection: portfolio
 ---
  

@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Chitradeep Saha"
 title_separator          : "-"
 name                     : &name "Chitradeep Saha"
-description              : &description "Senior Research Fellow"
+description              : &description "Postdoctoral Research Assistant"
 url                      : https://deephysics1729.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "deephysics1729/deephysics1729.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Chitradeep Saha"
   avatar           : "profile.png"
-  bio              : "CSIR Senior Research Fellow"
-  location         : "Kolkata, IN"
+  bio              : "Postdoctoral Research Assistant"
+  location         : "Reading, UK"
   employer         :
   pubmed           : #
   googlescholar    : "https://scholar.google.com/citations?user=V3b9Y-IAAAAJ&hl=en"
